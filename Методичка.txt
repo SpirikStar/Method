@@ -204,4 +204,5 @@ server {
     }
 }
 
+sudo chown -R spirik:spirik /home/spirik/DvGruz/venv
 
