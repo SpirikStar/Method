@@ -217,6 +217,8 @@ sudo chown -R spirik:spirik /home/spirik/DvGruz/venv
 
 -------
 sudo chmod o+rx /home/poppins/IqnixLink
+sudo chown -R poppins:poppins /home/poppins/S444Link/
+
 -------
 
 
