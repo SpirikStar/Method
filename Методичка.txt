@@ -27,6 +27,7 @@ sudo apt install nginx git supervisor
 sudo apt install postgresql
 ---------------------------------------
 
+sudo chmod 755 /home/govcarpets !!!!!
 
 Создание базы данных
 --------------------
